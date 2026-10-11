@@ -7,9 +7,9 @@ Christine de Kock, Arij Riabi, Zeerak Talat, Michael Sejr Schlichtkrull, Pranava
 
 📄 Paper on Hugging Face: https://huggingface.co/papers/2506.05635
 
-## ⚠️ Content warning
+## Content warning
 
-This dataset is drawn from extremist online communities (an incel forum and Stormfront, a white-supremacist forum). The target words and model-generated definitions below reference misogynistic, racist, antisemitic and otherwise hateful ideation, including references to real perpetrators of mass violence. It is released to support research on extremist language and automated moderation.
+This dataset is drawn from extremist online communities. The target words and model-generated definitions below reference misogynistic, racist, antisemitic and otherwise hateful ideation, including references to real perpetrators of mass violence. It is released to support research on extremist language and automated moderation.
 
 ## What's here
 
